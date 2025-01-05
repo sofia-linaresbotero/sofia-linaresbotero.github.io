@@ -2,4 +2,4 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Sofia Linares Botero 
-description: Welcome! My name is Sofia Linares Botero, I'm a Lawyer and Master in Public Policy candidate, with experience in applied qualitative research in international criminal law, public policies and transitional justice systems.
+description: Welcome! My name is Sofia Linares Botero, I'm a Lawyer and Master in Public Policy candidate, with experience in applied qualitative research, international criminal law, public policies and transitional justice systems.
