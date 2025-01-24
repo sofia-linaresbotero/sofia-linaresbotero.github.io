@@ -1,6 +1,7 @@
 # Published Work & Research
 ### The phenomenon of transnational corruption and criminological approaches reflecting its different aspects | 2024
-  * Joint with: H. Olasolo, P. Galain Palermo and L. Villarraga Zschommler 
+  * Joint with: H. Olasolo, P. Galain Palermo and L. Villarraga Zschommler
+This chapter, published in Spanish in Colección Perspectivas Iberoamericanas sobre la Justicia, Vol. 16 (2024), examines Transnational corruption and organized crime as highly complex phenomena with far-reaching impacts. Their transnational nature becomes evident as they occur across multiple states. We explore case studies from Spain and Latin America, review the main features of transnational corruption, investigate the organizations involved, and analyze its socio-economic, political, and environmental impacts. We conclude by discussing criminological approaches — macro-criminality, green criminology, victimology, and others — that offer valuable insights into this complex phenomenon, shedding light on its various dimensions and consequences.
 
 
 ### Criminological Contributions for the Comprehension of Transnational Corruption | 2023
@@ -37,4 +38,15 @@
  * Joint with: F. Freydell Mesa, G. Velásquez, D. Bohórquez, D. Corradine and A. Lema 
 
 ### La responsabilidad penal conforme al derecho interno de los niños soldados menores de 15 años víctimas de reclutamiento forzado | 2021
- * Joint with: F. Freydell Mesa, G. Velásquez, D. Bohórquez, D. Corradine and A. Lema 
+ * Joint with: F. Freydell Mesa, G. Velásquez, D. Bohórquez, D. Corradine and A. Lema
+
+
+# Editorial Work 
+### Forced marriage and its legal characterization as a crime against humanity: sexual slavery, other inhumane acts, or both? | 2023
+ 
+
+### La calificación del matrimonio forzado como crimen de lesa humanidad: ¿Esclavitud sexual, otros actos inhumanos o ambos? | 2023
+
+### Intergenerational and transgenerational harm | 2023
+
+### Daño intergeneracional y transgeneracional | 2023
