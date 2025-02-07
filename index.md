@@ -7,7 +7,7 @@ This chapter, published in Spanish in _Colección Perspectivas Iberoamericanas s
 
 ### Criminological Contributions for the Comprehension of Transnational Corruption | 2023
   * Joint with: L. Villarraga Zschommler and H. Olasolo
-  * 🔗 DOI: [10.18800/derechopucp.202302.011](url)
+  * 🔗 DOI: [[10.18800/derechopucp.202302.011](https://doi.org/10.18800/derechopucp.202302.011)](url)
 
 This article explores how criminological theories provide valuable insights into transnational corruption, a pervasive and complex global issue. By examining different criminological perspectives, the study sheds light on the structural and systemic conditions that enable corruption across borders. The paper integrates frameworks such as white-collar and mass media criminology, victimology, green criminology, maldevelopment criminology, crimes of globalization, and macrocriminality to offer a comprehensive understanding of transnational corruption.
 Through this multidisciplinary approach, the study highlights how power structures, economic globalization, legal loopholes, and institutional weaknesses contribute to the persistence of corruption. It also underscores the social and environmental consequences of these crimes, particularly their disproportionate impact on vulnerable populations.
