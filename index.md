@@ -1,6 +1,7 @@
 # Published Work & Research
 ### The phenomenon of transnational corruption and criminological approaches reflecting its different aspects | 2024
   * Joint with: H. Olasolo, P. Galain Palermo and L. Villarraga Zschommler
+  * 🔗 DOI: [https://editorial.tirant.com/free_ebooks/9788410564237.pdf]
 
 This chapter, published in Spanish in _Colección Perspectivas Iberoamericanas sobre la Justicia_, Vol. 16 (2024), examines Transnational corruption and organized crime as highly complex phenomena with far-reaching impacts. Their transnational nature becomes evident as they occur across multiple states. We explore case studies from Spain and Latin America, review the main features of transnational corruption, investigate the organizations involved, and analyze its socio-economic, political, and environmental impacts. We conclude by discussing criminological approaches — macro-criminality, green criminology, victimology, and others — that offer valuable insights into this complex phenomenon, shedding light on its various dimensions and consequences.
 
