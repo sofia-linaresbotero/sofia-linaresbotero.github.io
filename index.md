@@ -1,7 +1,7 @@
 # Published Work & Research
 ### The phenomenon of transnational corruption and criminological approaches reflecting its different aspects | 2024
   * Joint with: H. Olasolo, P. Galain Palermo and L. Villarraga Zschommler
-  * 🔗 DOI: [https://editorial.tirant.com/free_ebooks/9788410564237.pdf]
+  * 🔗 Link (free access): [https://editorial.tirant.com/free_ebooks/9788410564237.pdf]
 
 This chapter, published in Spanish in _Colección Perspectivas Iberoamericanas sobre la Justicia_, Vol. 16 (2024), examines Transnational corruption and organized crime as highly complex phenomena with far-reaching impacts. Their transnational nature becomes evident as they occur across multiple states. We explore case studies from Spain and Latin America, review the main features of transnational corruption, investigate the organizations involved, and analyze its socio-economic, political, and environmental impacts. We conclude by discussing criminological approaches — macro-criminality, green criminology, victimology, and others — that offer valuable insights into this complex phenomenon, shedding light on its various dimensions and consequences.
 
@@ -14,8 +14,14 @@ This article explores how criminological theories provide valuable insights into
 Through this multidisciplinary approach, the study highlights how power structures, economic globalization, legal loopholes, and institutional weaknesses contribute to the persistence of corruption. It also underscores the social and environmental consequences of these crimes, particularly their disproportionate impact on vulnerable populations.
 
 ### Comparison of alternative mechanisms to ordinary justice from a restorative approach: the cases of Justice and Peace and the Houses of Justice | 2022
-  * Joint with: J.M.F. Ramírez Mendoza 
+  * Joint with: J.M.F. Ramírez Mendoza
+  * 🔗 ([Read here](https://doctrinadistrital.com/ojs2/index.php/RevistaDoctrinaDistrital/article/view/55))
 
+We explore the role of alternative justice mechanisms within Colombia’s ordinary justice system through the lens of Restorative Justice. It compares two key programs:
+*Justice and Peace Cases: A transitional justice framework designed to address crimes committed during Colombia’s armed conflict.
+*Houses of Justice Program: A community-based initiative aimed at expanding access to justice through mediation and legal assistance.
+Our analysis starts by exploring Restorative Justice principles and their application in both legal systems. We also examine the normative frameworks governing Justice and Peace and the Houses of Justice, and end with a comparative assessment of these mechanisms using restorative justice criteria.
+Through qualitative research and fieldwork, the article highlights strengths, limitations, and areas for improvement in both mechanisms. It also provides policy recommendations to enhance the management and impact of the Houses of Justice program. This study contributes to the growing discourse on Restorative Justice in Colombia, offering valuable insights for policymakers, legal practitioners, and researchers interested in alternative dispute resolution and post-conflict justice.
 
 ### Content and mandatory nature of the requirements under Article 74 (5) of the Statute of the International Criminal Court in relation to no case to answer decisions” | 2021
   * Joint with: M.F. Jaramillo Gómez, S.P. Mosquera and S. Campos 
