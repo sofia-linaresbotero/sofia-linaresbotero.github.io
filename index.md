@@ -18,8 +18,11 @@ Through this multidisciplinary approach, the study highlights how power structur
   * 🔗 ([Read here](https://doctrinadistrital.com/ojs2/index.php/RevistaDoctrinaDistrital/article/view/55))
 
 We explore the role of alternative justice mechanisms within Colombia’s ordinary justice system through the lens of Restorative Justice. It compares two key programs:
+
 *Justice and Peace Cases: A transitional justice framework designed to address crimes committed during Colombia’s armed conflict.
+
 *Houses of Justice Program: A community-based initiative aimed at expanding access to justice through mediation and legal assistance.
+
 Our analysis starts by exploring Restorative Justice principles and their application in both legal systems. We also examine the normative frameworks governing Justice and Peace and the Houses of Justice, and end with a comparative assessment of these mechanisms using restorative justice criteria.
 Through qualitative research and fieldwork, the article highlights strengths, limitations, and areas for improvement in both mechanisms. It also provides policy recommendations to enhance the management and impact of the Houses of Justice program. This study contributes to the growing discourse on Restorative Justice in Colombia, offering valuable insights for policymakers, legal practitioners, and researchers interested in alternative dispute resolution and post-conflict justice.
 
