@@ -56,11 +56,8 @@ This study contributes to the broader discourse on procedural fairness and legal
 
 The research explores the legal and ethical complexities surrounding the sentencing of Dominic Ongwen, a former child soldier turned high-ranking commander of the Lord’s Resistance Army (LRA), who was prosecuted for war crimes and crimes against humanity before the International Criminal Court (ICC). The article critically examines whether Ongwen’s past as a forcibly recruited child soldier should influence his sentencing, raising key questions on accountability, victimhood, and rehabilitation in international criminal justice.
 
-The research focuses on three central questions:
+The research focuses on three central questions: *(i). Impact on Crime Gravity* – Does a history of being a child soldier affect how the gravity of crimes is assessed? *(ii). Mitigation vs. Aggravation* – Should Ongwen’s past be considered an exonerating, mitigating, or aggravating factor in sentencing? *(iii). Sentencing Approach* – What is the most appropriate way to incorporate his background into sentencing decisions?
 
-Impact on Crime Gravity – Does a history of being a child soldier affect how the gravity of crimes is assessed?
-Mitigation vs. Aggravation – Should Ongwen’s past be considered an exonerating, mitigating, or aggravating factor in sentencing?
-Sentencing Approach – What is the most appropriate way to incorporate his background into sentencing decisions?
 To address these issues, the study conducts a comparative analysis of international jurisprudence, particularly from the ICC and the Special Court for Sierra Leone (SCSL), the only two tribunals with relevant case law on child recruitment and its implications for sentencing. This work contributes to the broader discourse on transitional justice, child soldier reintegration, and the evolving role of international law in balancing accountability with considerations of coercion and victimhood.
 
 ### Criminal responsibility under national law of under-fifteen child soldiers who were victims of forced recruitment | 2021
