@@ -19,9 +19,8 @@ Through this multidisciplinary approach, the study highlights how power structur
 
 We explore the role of alternative justice mechanisms within Colombia’s ordinary justice system through the lens of Restorative Justice. It compares two key programs:
 
-*Justice and Peace Cases: A transitional justice framework designed to address crimes committed during Colombia’s armed conflict.
-
-*Houses of Justice Program: A community-based initiative aimed at expanding access to justice through mediation and legal assistance.
+1. Justice and Peace Cases: A transitional justice framework designed to address crimes committed during Colombia’s armed conflict.
+2. Houses of Justice Program: A community-based initiative aimed at expanding access to justice through mediation and legal assistance.
 
 Our analysis starts by exploring Restorative Justice principles and their application in both legal systems. We also examine the normative frameworks governing Justice and Peace and the Houses of Justice, and end with a comparative assessment of these mechanisms using restorative justice criteria.
 Through qualitative research and fieldwork, the article highlights strengths, limitations, and areas for improvement in both mechanisms. It also provides policy recommendations to enhance the management and impact of the Houses of Justice program. This study contributes to the growing discourse on Restorative Justice in Colombia, offering valuable insights for policymakers, legal practitioners, and researchers interested in alternative dispute resolution and post-conflict justice.
@@ -29,30 +28,44 @@ Through qualitative research and fieldwork, the article highlights strengths, li
 ### Content and mandatory nature of the requirements under Article 74 (5) of the Statute of the International Criminal Court in relation to no case to answer decisions” | 2021
   * Joint with: M.F. Jaramillo Gómez, S.P. Mosquera and S. Campos 
 
+This study examines whether No Case to Answer (NCTA) decisions issued by Trial Chambers (TCs) of the International Criminal Court (ICC) must comply with the requirements of Article 74(5) of the ICC Statute. The provision mandates that decisions be in writing, include a full and reasoned statement of the evidence and conclusions, reflect majority and minority opinions, and be delivered in open court.
+
+The article explores scholarly interpretations and judicial precedents, analyzing whether these procedural requirements extend beyond final judgments to interlocutory decisions such as NCTA rulings. It assesses the binding nature of Article 74(5) and its role in ensuring fairness, transparency, and the right to appeal in ICC proceedings. The study draws on ICC case law—particularly the Jean-Pierre Bemba case—as well as jurisprudence from the ICTY, ICTR, HRC, ECtHR, and IACtHR to provide a comparative perspective.
+
+By addressing these legal complexities, this research contributes to the broader discussion on procedural safeguards in international criminal justice.
 
 ### Procedural issues concerning the _no case to answer_ decision of Trial Chamber I of the International Criminal Court in the Gbagbo and Blé Goudé case”  | 2021
   * Joint with: M.F. Jaramillo Gómez, S.P. Mosquera and S. Campos
 
+This research examines key procedural issues arising from the No Case to Answer (NCTA) decision issued by Trial Chamber I (TC I) of the International Criminal Court (ICC) in the case against former Ivorian President Laurent Gbagbo and former Youth Minister Charles Blé Goudé. The decision, which led to their acquittal, raised significant legal debates, particularly in the context of the appeal procedure.
+
+The article focuses on three major procedural concerns: 
+
+*1. Standard of Proof* – Whether TC I erred in failing to establish a clearly defined standard of proof in its NCTA decision, and whether it had the authority to clarify this standard only after issuing its ruling.
+
+*2. Fairness and Expeditiousness of Proceedings* – Whether these principles apply solely for the benefit of the accused or should also extend to the Prosecution.
+
+*3. Mistrial Considerations* – Under what circumstances a mistrial declaration would be appropriate in cases of procedural irregularities.
+
+To address these issues, the study conducts a comparative analysis of international jurisprudence, drawing on decisions from the International Criminal Court, the International Criminal Tribunals for the Former Yugoslavia and Rwanda, the Special Court for Sierra Leone, the Special Tribunal for Lebanon, the Extraordinary Chambers in the Courts of Cambodia, the European Court of Human Rights, and the Inter-American Court of Human Rights.
+
+This study contributes to the broader discourse on procedural fairness and legal standards in international criminal justice, particularly regarding the implications of NCTA decisions on future cases.
 
 ### Is being a former child soldier a relevant circumstance for sentencing? Special attention to the Ongwen case before the International Criminal Court | 2021
   * Joint with: F. Freydell Mesa, G. Velásquez, D. Bohórquez, D. Corradine and A. Lema 
 
+The research explores the legal and ethical complexities surrounding the sentencing of Dominic Ongwen, a former child soldier turned high-ranking commander of the Lord’s Resistance Army (LRA), who was prosecuted for war crimes and crimes against humanity before the International Criminal Court (ICC). The article critically examines whether Ongwen’s past as a forcibly recruited child soldier should influence his sentencing, raising key questions on accountability, victimhood, and rehabilitation in international criminal justice.
+
+The research focuses on three central questions:
+
+Impact on Crime Gravity – Does a history of being a child soldier affect how the gravity of crimes is assessed?
+Mitigation vs. Aggravation – Should Ongwen’s past be considered an exonerating, mitigating, or aggravating factor in sentencing?
+Sentencing Approach – What is the most appropriate way to incorporate his background into sentencing decisions?
+To address these issues, the study conducts a comparative analysis of international jurisprudence, particularly from the ICC and the Special Court for Sierra Leone (SCSL), the only two tribunals with relevant case law on child recruitment and its implications for sentencing. This work contributes to the broader discourse on transitional justice, child soldier reintegration, and the evolving role of international law in balancing accountability with considerations of coercion and victimhood.
 
 ### Criminal responsibility under national law of under-fifteen child soldiers who were victims of forced recruitment | 2021
   * Joint with: F. Freydell Mesa, G. Velásquez, D. Bohórquez, D. Corradine and A. Lema 
 
-### Contenido y naturaleza vinculante para las decisiones de sobreseimiento de los requisitos previstos en el artículo 74 (5) del Estatuto de la Corte Penal Internacional | 2021
-  * Joint with: M.F. Jaramillo Gómez, S.P. Mosquera and S. Campos 
-
-
-### Cuestiones procesales relativas a la decisión de la Sala de Primera Instancia I de la Corte Penal Internacional de sobreseer el caso contra Laurent Gbagbo y Charles Blé Goudé | 2021
-  * Joint with: M.F. Jaramillo Gómez, S.P. Mosquera and S. Campos 
-
-### ¿Es ser un ex niño soldado una circunstancia relevante para la determinación de la pena? Especial atención al caso Ongwen ante la Corte Penal Internacional | 2021
- * Joint with: F. Freydell Mesa, G. Velásquez, D. Bohórquez, D. Corradine and A. Lema 
-
-### La responsabilidad penal conforme al derecho interno de los niños soldados menores de 15 años víctimas de reclutamiento forzado | 2021
- * Joint with: F. Freydell Mesa, G. Velásquez, D. Bohórquez, D. Corradine and A. Lema
 
 
 # Editorial Work 
