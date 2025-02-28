@@ -25,14 +25,14 @@ We explore the role of alternative justice mechanisms within Colombia’s ordina
 Our analysis starts by exploring Restorative Justice principles and their application in both legal systems. We also examine the normative frameworks governing Justice and Peace and the Houses of Justice, and end with a comparative assessment of these mechanisms using restorative justice criteria.
 Through qualitative research and fieldwork, the article highlights strengths, limitations, and areas for improvement in both mechanisms. It also provides policy recommendations to enhance the management and impact of the Houses of Justice program. This study contributes to the growing discourse on Restorative Justice in Colombia, offering valuable insights for policymakers, legal practitioners, and researchers interested in alternative dispute resolution and post-conflict justice.
 
-### Content and mandatory nature of the requirements under Article 74 (5) of the Statute of the International Criminal Court in relation to no case to answer decisions” | 2021
+### Content and mandatory nature of the requirements under Article 74 (5) of the Statute of the International Criminal Court in relation to no case to answer decisions” (Published in Spanish and English) | 2021
   * Joint with: M.F. Jaramillo Gómez, S.P. Mosquera and S. Campos 
 
-This study examines whether No Case to Answer (NCTA) decisions issued by Trial Chambers (TCs) of the International Criminal Court (ICC) must comply with the requirements of Article 74(5) of the ICC Statute. The provision mandates that decisions be in writing, include a full and reasoned statement of the evidence and conclusions, reflect majority and minority opinions, and be delivered in open court.
+Our study examines whether No Case to Answer (NCTA) decisions issued by Trial Chambers (TCs) of the International Criminal Court (ICC) must comply with the requirements of Article 74(5) of the ICC Statute. The provision mandates that decisions be in writing, include a full and reasoned statement of the evidence and conclusions, reflect majority and minority opinions, and be delivered in open court.
 
 The article explores scholarly interpretations and judicial precedents, analyzing whether these procedural requirements extend beyond final judgments to interlocutory decisions such as NCTA rulings. It assesses the binding nature of Article 74(5) and its role in ensuring fairness, transparency, and the right to appeal in ICC proceedings. The study draws on ICC case law—particularly the Jean-Pierre Bemba case—as well as jurisprudence from the International Criminal Tribunals for the Former Yugoslavia and Rwanda, the Human Rights Committee, the European Court of Human Rights, and the Inter-American Court of Human Rights, to provide a comparative perspective. By addressing these legal complexities, this research contributes to the broader discussion on procedural safeguards in international criminal justice.
 
-### Procedural issues concerning the _no case to answer_ decision of Trial Chamber I of the International Criminal Court in the Gbagbo and Blé Goudé case”  | 2021
+### Procedural issues concerning the _no case to answer_ decision of Trial Chamber I of the International Criminal Court in the Gbagbo and Blé Goudé case” (Published in Spanish and English) | 2021
   * Joint with: M.F. Jaramillo Gómez, S.P. Mosquera and S. Campos
 
 This research examines key procedural issues arising from the No Case to Answer (NCTA) decision issued by Trial Chamber I (TC I) of the International Criminal Court (ICC) in the case against former Ivorian President Laurent Gbagbo and former Youth Minister Charles Blé Goudé. The decision, which led to their acquittal, raised significant legal debates, particularly in the context of the appeal procedure.
@@ -49,7 +49,7 @@ To address these issues, the study conducts a comparative analysis of internatio
 
 This study contributes to the broader discourse on procedural fairness and legal standards in international criminal justice, particularly regarding the implications of NCTA decisions on future cases.
 
-### Is being a former child soldier a relevant circumstance for sentencing? Special attention to the Ongwen case before the International Criminal Court | 2021
+### Is being a former child soldier a relevant circumstance for sentencing? Special attention to the Ongwen case before the International Criminal Court (Published in Spanish and English) | 2021
   * Joint with: F. Freydell Mesa, G. Velásquez, D. Bohórquez, D. Corradine and A. Lema 
 
 Our research explores the legal and ethical complexities surrounding the sentencing of Dominic Ongwen, a former child soldier turned high-ranking commander of the Lord’s Resistance Army (LRA), who was prosecuted for war crimes and crimes against humanity before the International Criminal Court (ICC). The article critically examines whether Ongwen’s past as a forcibly recruited child soldier should influence his sentencing, raising key questions on accountability, victimhood, and rehabilitation in international criminal justice.
@@ -58,7 +58,7 @@ The research focuses on three central questions: *(i). Impact on Crime Gravity* 
 
 To address these issues, the study conducts a comparative analysis of international jurisprudence, particularly from the International Criminal Court and the Special Court for Sierra Leone, the only two tribunals with relevant case law on child recruitment and its implications for sentencing. This work contributes to the broader discourse on transitional justice, child soldier reintegration, and the evolving role of international law in balancing accountability with considerations of coercion and victimhood.
 
-### Criminal responsibility under national law of under-fifteen child soldiers who were victims of forced recruitment | 2021
+### Criminal responsibility under national law of under-fifteen child soldiers who were victims of forced recruitment (Published in Spanish and English) | 2021
   * Joint with: F. Freydell Mesa, G. Velásquez, D. Bohórquez, D. Corradine and A. Lema 
 
 This research examines the criminal responsibility of child soldiers under the age of 15 who were forcibly recruited, focusing on two key questions: (1) What penalties do national legal systems impose on under-15 child soldiers for crimes committed during their recruitment? (2) How does being a former child soldier impact sentencing when they are later convicted of crimes as adults?
@@ -68,11 +68,17 @@ To answer these questions, the study analyzes legal frameworks from 12 national 
 By comparing ordinary and transitional justice approaches, the study highlights global legal inconsistencies and explores how legal systems balance accountability, rehabilitation, and victimhood in cases involving child soldiers. Our findings offer insights into how different jurisdictions handle justice, reintegration, and sentencing considerations for individuals like Dominic Ongwen—himself a former child soldier turned commander in the Lord’s Resistance Army, later prosecuted by the ICC.
 
 # Editorial Work 
-### Forced marriage and its legal characterization as a crime against humanity: sexual slavery, other inhumane acts, or both? | 2023
- 
+### Forced marriage and its legal characterization as a crime against humanity: sexual slavery, other inhumane acts, or both? (Published in Spanish and English) | 2023
+Supervised and acted as Teacher Assistant for this research, which explores the legal characterization of forced marriage as a crime against humanity (CAH), analyzing whether it should be classified as sexual slavery, other inhumane acts, or both under international criminal law. Forced marriage has been a systematic and widespread practice in armed conflicts, including those in Uganda, Sierra Leone, the Democratic Republic of the Congo, and Cambodia, often involving rape, forced labor, and psychological abuse.
 
-### La calificación del matrimonio forzado como crimen de lesa humanidad: ¿Esclavitud sexual, otros actos inhumanos o ambos? | 2023
+Despite its severity, forced marriage is not explicitly defined as a CAH in the Rome Statute of the International Criminal Court (ICC). In 2021, Trial Chamber IX of the ICC ruled that forced marriage constitutes “other inhumane acts”, setting a precedent for recognizing the severe physical and psychological harm inflicted on victims.
 
-### Intergenerational and transgenerational harm | 2023
+In this context, legal debates persist as the Defense argued that the Trial Chamber IX improperly expanded its jurisdiction by classifying forced marriage as a separate CAH. On the other hand, the Office of Public Counsel for Victims (OPCV) supported the Trial Chamber IX’s decision, emphasizing that forced marriage meets the criteria for "other inhumane acts" under Article 7(1)(k) of the Rome Statute. A third approach suggests that forced marriage could warrant cumulative convictions for both sexual slavery and other inhumane acts, as the harm experienced by victims extends beyond sexual violence.
+This research conducts a comparative analysis and legal research of international case law, evaluating whether cumulative convictions are justified and how courts can more effectively address the complex nature of forced marriage in armed conflict.
 
-### Daño intergeneracional y transgeneracional | 2023
+### Intergenerational and transgenerational harm (Published in Spanish and English) | 2023
+Supervised and acted as Teacher Assistant for this research, which examines the concepts of intergenerational and transgenerational harm in the context of international criminal law and human rights. The discussion is centered on the reparations order in the Ntaganda case before the International Criminal Court (ICC) and its broader implications for victims of mass violence.
+
+The ICC Appeals Chamber (AC) defines transgenerational harm as the transmission of trauma from one generation to the next, often resulting in psychological disorders, attachment issues, and anxiety among descendants of direct victims. This was a key issue in the Ntaganda reparation order, where the ICC acknowledged the long-term consequences of war crimes on children of victims. However, the AC reversed part of the order due to evidentiary gaps in assessing eligibility for reparations.
+
+Beyond the ICC, the study explores how international courts and truth commissions—including those in Colombia, Rwanda, and the former Yugoslavia—have recognized and addressed the multigenerational impact of conflict and human rights violations. By analyzing legal precedents, this research evaluates whether intergenerational and transgenerational harm are distinct concepts and how they should be incorporated into legal frameworks for reparations and transitional justice.
