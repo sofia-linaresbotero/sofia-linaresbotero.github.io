@@ -1,7 +1,7 @@
 # Published Work & Research
 ### Punishable Preparatory Acts, Criminal Conspiracy, and Attempt | 2025
   * Joint with: L. Villarraga Zschommler and M.P. López Velásquez
-  * 🔗 🔗 ([Read here](https://editorial.tirant.com/free_ebooks/9788410714557.pdf)
+  * 🔗 [Read here](https://editorial.tirant.com/free_ebooks/9788410714557.pdf)
 
 Chapter 1 published in Spanish in _Responses to Corruption from the General Part of Criminal Law_, with a Focus on Corruption Associated with Transnational Organized Crime, Vol. 33 (2025), explores how punishable preparatory acts, criminal conspiracy, and attempt—as extensions of criminal liability—can enhance state responses to corruption linked to transnational organized crime (TOC). It analyzes how these legal tools function as "amplifiers" of criminal typicity, expanding the reach of criminal law beyond the moment of harm, in order to proactively deter and sanction conduct that increases the risk of serious offenses.
 Drawing on comparative legal analysis across Latin America and other jurisdictions (e.g., Spain, Italy, U.S.), and aligned with international standards, the chapter evaluates whether the early penalization of high-risk preparatory acts is effective and justified. It also considers theoretical debates around the legitimacy of punishing conduct before execution of a crime and offers strategic legal and policy recommendations for Latin America and Colombia.
@@ -9,14 +9,14 @@ Drawing on comparative legal analysis across Latin America and other jurisdictio
 
 ### The phenomenon of transnational corruption and criminological approaches reflecting its different aspects | 2024
   * Joint with: H. Olasolo, P. Galain Palermo and L. Villarraga Zschommler
-  * 🔗 ([Read here](https://editorial.tirant.com/free_ebooks/9788410564237.pdf)
+  * 🔗 [Read here](https://editorial.tirant.com/free_ebooks/9788410564237.pdf)
 
 This chapter, published in Spanish in _Colección Perspectivas Iberoamericanas sobre la Justicia_, Vol. 16 (2024), examines Transnational corruption and organized crime as highly complex phenomena with far-reaching impacts. Their transnational nature becomes evident as they occur across multiple states. We explore case studies from Spain and Latin America, review the main features of transnational corruption, examine the organizations involved, and analyze its socio-economic, political, and environmental impacts. We conclude by discussing criminological approaches — macro-criminality, green criminology, victimology, and others — that offer valuable insights into this complex phenomenon, shedding light on its various dimensions and consequences.
 
 
 ### Criminological Contributions for the Comprehension of Transnational Corruption | 2023
   * Joint with: L. Villarraga Zschommler and H. Olasolo
-  * 🔗 ([Read here](https://doi.org/10.18800/derechopucp.202302.011))
+  * 🔗 [Read here](https://doi.org/10.18800/derechopucp.202302.011)
 
 This article explores how criminological theories provide valuable insights into transnational corruption, a pervasive and complex global issue. By examining different criminological perspectives, the study sheds light on the structural and systemic conditions that enable corruption across borders. The paper integrates frameworks such as white-collar and mass media criminology, victimology, green criminology, maldevelopment criminology, crimes of globalization, and macrocriminality to offer a comprehensive understanding of transnational corruption.
 Through this multidisciplinary approach, the study highlights how power structures, economic globalization, legal loopholes, and institutional weaknesses contribute to the persistence of corruption. It also underscores the social and environmental consequences of these crimes, particularly their disproportionate impact on vulnerable populations.
