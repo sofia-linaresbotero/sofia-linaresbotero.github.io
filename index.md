@@ -82,6 +82,7 @@ By comparing ordinary and transitional justice approaches, the study highlights 
 # Editorial Work 
 ### Forced marriage and its legal characterization as a crime against humanity: sexual slavery, other inhumane acts, or both? (Published in Spanish and English) | 2023
   * 🔗 [Read here](https://repository.urosario.edu.co/server/api/core/bitstreams/a3155e35-0aee-4324-94af-fa522988df41/content)
+
 Supervised and acted as Teacher Assistant for this research, which explores the legal characterization of forced marriage as a crime against humanity (CAH), analyzing whether it should be classified as sexual slavery, other inhumane acts, or both under international criminal law. Forced marriage has been a systematic and widespread practice in armed conflicts, including those in Uganda, Sierra Leone, the Democratic Republic of the Congo, and Cambodia, often involving rape, forced labor, and psychological abuse.
 
 Despite its severity, forced marriage is not explicitly defined as a CAH in the Rome Statute of the International Criminal Court (ICC). In 2021, Trial Chamber IX of the ICC ruled that forced marriage constitutes “other inhumane acts”, setting a precedent for recognizing the severe physical and psychological harm inflicted on victims.
@@ -91,6 +92,7 @@ This research conducts a comparative analysis and legal research of internationa
 
 ### Intergenerational and transgenerational harm (Published in Spanish and English) | 2023
  * 🔗 [Read here](https://repository.urosario.edu.co/server/api/core/bitstreams/a3155e35-0aee-4324-94af-fa522988df41/content)
+
 Supervised and acted as Teacher Assistant for this research, which examines the concepts of intergenerational and transgenerational harm in the context of international criminal law and human rights. The discussion is centered on the reparations order in the Ntaganda case before the International Criminal Court (ICC) and its broader implications for victims of mass violence.
 
 The ICC Appeals Chamber (AC) defines transgenerational harm as the transmission of trauma from one generation to the next, often resulting in psychological disorders, attachment issues, and anxiety among descendants of direct victims. This was a key issue in the Ntaganda reparation order, where the ICC acknowledged the long-term consequences of war crimes on children of victims. However, the AC reversed part of the order due to evidentiary gaps in assessing eligibility for reparations.
